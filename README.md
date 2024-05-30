@@ -1,6 +1,8 @@
 # PersonaAI 
 **_PersonaAI is a conversational AI avatar transforming customer support, education, etc. by creating a natural connection between people and machines, simplifying interaction and enhancing understanding._**
 
+![sddefault](https://github.com/robegamesios/AITalkingAvatar/assets/10041871/22a504ec-dd4b-4dfd-a10e-f28c915cdc9d)
+
 #
 Picture a future where people and AI communicate with ease and empathy. Introducing PersonaAI, a revolutionary conversational AI avatar that's redefining human-machine interaction. Unlike other AI avatar creators that just generate videos post-process (such as D-ID, Synthesia, Elai, HeyGen, Colossyan, and Vidyard), PersonaAI offers a truly interactive and immersive experience.
 
